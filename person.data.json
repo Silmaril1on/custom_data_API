@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Jonathan 'John' Wick",
+    "type": "professional killer",
+    "image": "https://otakukart.com/wp-content/uploads/2020/02/5ce52d8edc02a.jpg",
+    "info": "Jonathan 'John' Wick, born Jardani Jovonovich (Джарданы Джовонович) and also known as Baba Yaga. He is a legendary hitman who previously worked for the Tarasov Mob until his retirement. He retired in order to spend time with his wife, Helen Wick, who later passed away from an unidentified illness. ",
+    "place": "new york city , USA"
+  },
+  {
+    "id": 2,
+    "name": "Thomas 'Tommy' Patrick Egan",
+    "type": "drug dealer",
+    "image": "https://tvseriesfinale.com/wp-content/uploads/2020/09/poweriv01.jpg",
+    "info": "Tommy Egan, portrayed by Joseph Sikora, is a fictional character from the Starz television series, Power and spin-offs, Book II and Book IV. He is a convicted drug dealer from Jamaica, Queens and the only character to star three out of four shows in the Power Universe.",
+    "place": "new york city , NY"
+  },
+  {
+    "id": 3,
+    "name": "Hieronymus 'Harry' Bosch",
+    "type": "detective",
+    "image": "https://blog.flicks.co.nz/wp-content/uploads/Bosch_.jpg",
+    "info": "Detective Hieronymus 'Harry' Bosch is a fictional character created by American author Michael Connelly. Bosch debuted as the lead character in the 1992 novel The Black Echo, the first in a best-selling police procedural series now numbering 24 novels",
+    "place": "los angeles, CA"
+  },
+  {
+    "id": 4,
+    "name": "agent smith",
+    "type": "AI program",
+    "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/Agent-Smith.The-Matrix.webp",
+    "info": "Smith began as an Agent, an AI program in the Matrix programmed to keep order within the system by terminating human simulacra which would bring instability to the simulated reality, as well as any rogue programs that no longer serve a purpose to the Machine collective",
+    "place": "matrix"
+  },
+  {
+    "id": 5,
+    "name": "gandalf the white",
+    "type": "wizzard",
+    "image": "https://startefacts.com/upload//upload/news/136188333456.jpg",
+    "info": "a wizard, one of the Istari order, and the leader of the Fellowship of the Ring. Tolkien took the name 'Gandalf' from the Old Norse 'Catalogue of Dwarves'  in the Völuspá.",
+    "place": "middle earth"
+  },
+  {
+    "id": 6,
+    "name": "James 'Logan' Howlett",
+    "type": "mutant / weapon X",
+    "image": "https://www.eltiempo.com/files/image_1200_680/uploads/2018/10/20/5bcbcbd83329b.jpeg",
+    "info": "A mutant with an unstoppable healing power, adamantium metal claws and no-nonsense attitude makes the man called Logan, one of the most ferocious heroes in the universe. 300 lbs., Without Adamantium skeleton: 195 lbs.",
+    "place": "unknown location, USA"
+  },
+  {
+    "id": 7,
+    "name": "thanos",
+    "type": "Titan",
+    "image": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/wp-content/uploads/2018/05/Thanos.jpg",
+    "info": "Thanos is a supervillain appearing in American comic books published by Marvel Comics. Created by writer-artist Jim Starlin, the character first appeared in The Invincible Iron Man #55. An Eternal–Deviant warlord from the moon Titan, Thanos is regarded as one of the most powerful beings in the Marvel Universe.",
+    "place": "Planet 0259-S"
+  },
+  {
+    "id": 8,
+    "name": "Arthur Morgan",
+    "type": "Criminal / Owtlaw",
+    "image": "https://assets1.ignimgs.com/2018/05/03/arthur-1525355464220_160w.jpg?width=1280",
+    "info": "Arthur Morgan is a fictional character and the main playable protagonist of the 2018 video game Red Dead Redemption 2.",
+    "place": "New Hanover, AM"
+  },
+  {
+    "id": 9,
+    "name": "Raymond 'Bumpy' Johnson",
+    "type": "Criminal / Mobster",
+    "image": "https://www.urbanmag-online.com/wp-content/uploads/godfather-in-harlem-bumpy-johnson.jpg",
+    "info": "In the early 1960s, infamous crime boss Bumpy Johnson returns from 10 years in prison to find the neighbourhood he once ruled in shambles; with the streets controlled by the Italian mob, Bumpy must take on the Genovese crime family to regain control.",
+    "place": "Harlem, NY"
+  }
+]
