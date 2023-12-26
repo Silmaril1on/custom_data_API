@@ -128,5 +128,10 @@
   "info": "Transformers: Revenge of the Fallen is a 2009 American science fiction action film based on Hasbro's Transformers toy line. The film is the second installment in the Transformers film series and the sequel to Transformers (2007). The film is directed by Michael Bay and written by Ehren Kruger, Roberto Orci, and Alex Kurtzman. Taking place two years after the previous film, the story revolves around Optimus Prime, leader of the Autobots, and Sam Witwicky, who is caught once again in the war between the Autobots and the Decepticons, led by Megatron", 
   "image": "https://i.pinimg.com/originals/41/41/b6/4141b602b64d2d5c4264ff7f899145a4.jpg"
   }
+
+  {
+  "id": 14,
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/anatar.jpg",
+    "name": "annatar"
  
 ]
