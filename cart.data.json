@@ -2,7 +2,7 @@
     {
     "id": 1,
     "title": "anduril",
-    "img": "https://github.com/Silmaril1on/custom_data_API/blob/main/images/iluminati.jpg?raw=true",
+    "image": "https://github.com/Silmaril1on/custom_data_API/blob/main/images/iluminati.jpg?raw=true",
     "price": 20.59,
     "totalItemPrice": 0,
     "amount": 1
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "title": "glamdring",
-    "img": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/glamdring.webp",
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/glamdring.webp",
     "price": 30.8,
     "totalItemPrice": 0,
     "amount": 1
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "title": "moria staff",
-    "img": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/anduril.webp",
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/anduril.webp",
     "price": 20.69,
     "totalItemPrice": 0,
     "amount": 1
