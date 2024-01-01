@@ -2,7 +2,7 @@
     {
     "id": 1,
     "title": "anduril",
-    "image": "https://github.com/Silmaril1on/custom_data_API/blob/main/images/iluminati.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/anduril.webp",
     "price": 20.59,
     "totalItemPrice": 0,
     "amount": 1
