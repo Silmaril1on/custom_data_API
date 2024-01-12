@@ -2,13 +2,13 @@
   {
     "id": 1,
     "name": "ghost of tsushima",
-    "image": "https://github.com/Silmaril1on/custom_data_API/blob/main/images/gamebase/tsushima.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/tsushima.jpg",
     "info": "Forge a new path and wage an unconventional war for the freedom of Tsushima in this expanded version of the open-world action-adventure from Sucker Punch Productions.",
   },
    {
     "id": 2,
     "name": "returnal",
-    "image": "https://github.com/Silmaril1on/custom_data_API/blob/main/images/gamebase/returnal.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/returnal.jpg",
     "info": "Break the cycle of chaos on an always-changing alien planet in this acclaimed third-person roguelike shooter from Housemarque."
   }
 ]
