@@ -5,7 +5,7 @@
     "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/tsushima.jpg",
     "info": "Forge a new path and wage an unconventional war for the freedom of Tsushima in this expanded version of the open-world action-adventure from Sucker Punch Productions.",
     "platforms": { 
-      "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/ps5ps4.png"
+      "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/ps5ps4.png"
     }
   },
    {
@@ -14,8 +14,8 @@
     "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/returnal.jpg",
     "info": "Break the cycle of chaos on an always-changing alien planet in this acclaimed third-person roguelike shooter from Housemarque.",
     "platforms": { 
-      "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/ps5ps4.png", 
-      "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/steam.png"
+      "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/ps5ps4.png", 
+      "steam": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/steam.png"
     }
   }
 ]
