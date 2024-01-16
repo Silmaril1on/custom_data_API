@@ -99,7 +99,7 @@
     "info": "Forza Horizon is a 2012 racing video game developed by Playground Games and published by Microsoft Studios for the Xbox 360 on 23 October 2012. The game is the fifth instalment of the Forza series, having originally spun-off from Turn 10 Studios-developed Forza Motorsport titles.",
     "platforms": { 
       "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox.png", 
-       "steam": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox.png" 
+       "steam": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/steam.png" 
     }
   }
 ]
