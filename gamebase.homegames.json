@@ -2,6 +2,7 @@
   {
     "id": 0,
     "name": "ghost of tsushima",
+    "category": "rpg",
     "year": 2020,
     "amount": 1,
     "price": 30.99,
@@ -15,6 +16,7 @@
    {
     "id": 1,
     "name": "returnal",
+    "category": "shooter",
     "year": 2021,
     "amount": 1,
     "price": 35.99,
@@ -29,6 +31,7 @@
    {
     "id": 2,
     "name": "death stranding",
+    "category": "adventure",
     "year": 2019,
     "amount": 1,
     "price": 25.99,
@@ -43,6 +46,7 @@
    {
     "id": 3,
     "name": "uncharted: legacy of thieves collection",
+    "category": "adventure",
     "year": 2022,
     "amount": 1,
     "price": 20.99,
@@ -56,6 +60,7 @@
    {
     "id": 4,
     "name": "ratchet & clank: rift apart",
+    "category": "adventure",
     "year": 2022,
     "amount": 1,
     "price": 45.99,
@@ -69,6 +74,7 @@
    {
     "id": 5,
     "name": "marvel's spider man miles morales",
+    "category": "action",
     "year": 2021,
     "amount": 1,
     "price": 27.99,
@@ -82,6 +88,7 @@
    {
     "id": 6,
     "name": "horizon forbidden west",
+    "category": "adventure",
     "year": 2022,
     "amount": 1,
     "price": 25.99,
@@ -95,6 +102,7 @@
    {
     "id": 7,
     "name": "the last of us part one",
+    "category": "adventure",
     "year": 2013,
     "amount": 1,
     "price": 20.99,
@@ -108,6 +116,7 @@
    {
     "id": 8,
     "name": "gran turismo 7",
+    "category": "racing",
     "year": 2022,
     "amount": 1,
     "price": 45.99,
@@ -121,6 +130,7 @@
    {
     "id": 9,
     "name": "demon's souls",
+    "category": "action",
     "year": 2020,
     "amount": 1,
     "price": 15.99,
@@ -135,6 +145,7 @@
   {
     "id": 10,
     "name": "forza horizon",
+    "category": "racing",
     "year": 2018,
     "amount": 1,
     "price": 10.99,
