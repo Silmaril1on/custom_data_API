@@ -1,0 +1,49 @@
+[
+
+    "id": 0,
+    "name": "ghost of tsushima",
+    "category": "action",
+    "year": 2020,
+    "amount": 1,
+    "price": 30.99,
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/tsushima.jpg",
+    "poster": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-tsushima.jpg",
+    "developer": "Sucker Punch Productions",
+    "info": "Forge a new path and wage an unconventional war for the freedom of Tsushima in this expanded version of the open-world action-adventure from Sucker Punch Productions.",
+    "platforms": { 
+      "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png"
+    }
+  },
+   {
+    "id": 1,
+    "name": "returnal",
+    "category": "adventure",
+    "year": 2021,
+    "amount": 1,
+    "price": 35.99,
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/returnal.jpg",
+    "poster": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-returnal.jpg",
+    "developer": "housemarque",
+    "info": "Break the cycle of chaos on an always-changing alien planet in this acclaimed third-person roguelike shooter from Housemarque.",
+    "platforms": { 
+      "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png", 
+      "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png"
+    }
+  },
+   {
+    "id": 2,
+    "name": "death stranding",
+    "category": "for kids",
+    "year": 2019,
+    "amount": 1,
+    "price": 25.99,
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/deathstranding.jpg",
+    "poster": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-stranding.jpg",
+    "developer": "Kojima Productions",
+    "info": "As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America in this genre-defying experience from legendary game creator Hideo Kojima.",
+    "platforms": { 
+      "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png", 
+      "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png"
+    }
+  }
+  ]
