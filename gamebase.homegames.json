@@ -2,7 +2,7 @@
   {
     "id": 0,
     "name": "ghost of tsushima",
-    "category": ["fighting", "action", "adventure"],
+    "category": "action",
     "year": 2020,
     "amount": 1,
     "price": 30.99,
@@ -17,7 +17,7 @@
    {
     "id": 1,
     "name": "returnal",
-    "category": ["action", "shooter", "sci-fi"],
+    "category": "adventure",
     "year": 2021,
     "amount": 1,
     "price": 35.99,
@@ -33,7 +33,7 @@
    {
     "id": 2,
     "name": "death stranding",
-    "category": ["adventure", "sci-fi", "action", "shooter"],
+    "category": "for kids",
     "year": 2019,
     "amount": 1,
     "price": 25.99,
@@ -49,7 +49,7 @@
    {
     "id": 3,
     "name": "uncharted: legacy of thieves",
-    "category": ["shooter", "action", "adventure"],
+    "category": "simulator",
     "year": 2022,
     "amount": 1,
     "price": 20.99,
@@ -64,7 +64,7 @@
    {
     "id": 4,
     "name": "ratchet & clank: rift apart",
-    "category": ["action", "for kids", "adventure"],
+    "category": "adventure",
     "year": 2022,
     "amount": 1,
     "price": 45.99,
@@ -79,7 +79,7 @@
    {
     "id": 5,
     "name": "marvel's spider man miles morales",
-    "category": ["adventure", "action", "fighting"],
+    "category": "sport",
     "year": 2021,
     "amount": 1,
     "price": 27.99,
@@ -94,7 +94,7 @@
    {
     "id": 6,
     "name": "horizon forbidden west",
-    "category": ["fighting", "adventure", "action"],
+    "category": "action",
     "year": 2022,
     "amount": 1,
     "price": 25.99,
@@ -109,7 +109,7 @@
    {
     "id": 7,
     "name": "the last of us part one",
-    "category": ["shooter", "action", "adventure"],
+    "category": "fighting",
     "year": 2013,
     "amount": 1,
     "price": 20.99,
@@ -124,7 +124,7 @@
    {
     "id": 8,
     "name": "gran turismo 7",
-    "category": ["racing", "simulator", "sport"],
+    "category":"rpg",
     "year": 2022,
     "amount": 1,
     "price": 45.99,
@@ -139,7 +139,7 @@
   { 
     "id": 9, 
     "name": "demon's souls", 
-    "category": ["fighting", "action"], 
+    "category": "action", 
     "year": 2020, 
     "amount": 1, 
     "price": 15.99, 
@@ -155,7 +155,7 @@
   { 
     "id": 10, 
     "name": "forza horizon", 
-    "category": ["sport", "racing", "simulator"], 
+    "category": "racing", 
     "year": 2018, 
     "amount": 1, 
     "price": 10.99, 
@@ -171,7 +171,7 @@
   { 
     "id": 11, 
     "name": "assassin's creed: valhalla", 
-    "category": ["action", "adventure", "fighting"], 
+    "category": "action", 
     "year": 2020, 
     "amount": 1, 
     "price": 30.99, 
@@ -188,7 +188,7 @@
 { 
   "id": 12, 
   "name": "assassin's creed: origins", 
-  "category": ["action", "adventure", "fighting"], 
+  "category": "adventure", 
   "year": 2017, 
   "amount": 1, 
   "price": 20.99, 
@@ -205,7 +205,7 @@
   { 
     "id": 13, 
     "name": "assassin's creend: odyssey", 
-    "category": ["action", "adventure", "fighting"], 
+    "category": "action", 
     "year": 2018, 
     "amount": 1, 
     "price": 25.99, 
@@ -222,7 +222,7 @@
   { 
     "id": 14, 
     "name": "last of us: part 2", 
-    "category": ["action", "adventure", "shooter"], 
+    "category": "sci fi", 
     "year": 2020, 
     "amount": 1, 
     "price": 35.99, 
@@ -237,7 +237,7 @@
   { 
     "id": 15, 
     "name": "control", 
-    "category": ["action", "shooter"], 
+    "category": "shooter", 
     "year": 2019, 
     "amount": 1, 
     "price": 25.99, 
@@ -254,7 +254,7 @@
   { 
     "id": 16, 
     "name": "god of war", 
-    "category": ["action", "fighting", "adventure"], 
+    "category": "action", 
     "year": 2018, 
     "amount": 1, 
     "price": 25.99, 
@@ -270,7 +270,7 @@
   { 
     "id": 17, 
     "name": "god of war: ragnarok", 
-    "category": ["action", "fighting", "adventure"], 
+    "category": "adventure", 
     "year": 2022, 
     "amount": 1, 
     "price": 45.99, 
@@ -285,7 +285,7 @@
   { 
     "id": 18, 
     "name": "sekiro: shadow die twice", 
-    "category": ["action", "fighting"], 
+    "category": "fighting", 
     "year": 2019, 
     "amount": 1, 
     "price": 27.99, 
@@ -302,7 +302,7 @@
   { 
     "id": 19, 
     "name": "horizon: zero dawn", 
-    "category": ["action", "fighting", "adventure"], 
+    "category": "shooter", 
     "year": 2017, 
     "amount": 1, 
     "price": 27.99, 
