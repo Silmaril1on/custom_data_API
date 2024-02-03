@@ -45,20 +45,6 @@
       "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png", 
       "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png"
     }
-  },
-    {
-    "id": 3,
-    "name": "uncharted: legacy of thieves",
-    "category": "simulator",
-    "year": 2022,
-    "amount": 1,
-    "price": 20.99,
-    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/uncharted.jpg"
-    "poster": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-unchartedlegacy.jpg",
-    "developer": "naughty dog",
-    "info": "Play as Nathan Drake and Chloe Frazer in their own standalone adventures as they are forced to confront their pasts and forge their own legacies.",
-    "platforms": { 
-      "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png"
-    }
   }
+  
 ]
