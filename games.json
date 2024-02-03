@@ -2,7 +2,7 @@
   {
     "id": 0,
     "name": "ghost of tsushima",
-    "category": "action",
+    "category": ["adventure", "action", "fighting"],
     "year": 2020,
     "amount": 1,
     "price": 30.99,
@@ -16,7 +16,7 @@
    {
     "id": 1,
     "name": "returnal",
-    "category": "adventure",
+    "category": ["shooter", "action", "sci-fi"],
     "year": 2021,
     "amount": 1,
     "price": 35.99,
@@ -31,7 +31,7 @@
    {
     "id": 2,
     "name": "death stranding",
-    "category": "for kids",
+    "category": ["sci-fi", "adventure",],
     "year": 2019,
     "amount": 1,
     "price": 25.99,
