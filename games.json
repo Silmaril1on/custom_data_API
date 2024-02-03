@@ -7,6 +7,7 @@
     "amount": 1,
     "price": 30.99,
     "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/tsushima.jpg",
+    "poster": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-tsushima.jpg",
     "developer": "Sucker Punch Productions",
     "info": "Forge a new path and wage an unconventional war for the freedom of Tsushima in this expanded version of the open-world action-adventure from Sucker Punch Productions.",
     "platforms": { 
@@ -21,6 +22,7 @@
     "amount": 1,
     "price": 35.99,
     "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/returnal.jpg",
+    "poster": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-returnal.jpg",
     "developer": "housemarque",
     "info": "Break the cycle of chaos on an always-changing alien planet in this acclaimed third-person roguelike shooter from Housemarque.",
     "platforms": { 
@@ -36,6 +38,7 @@
     "amount": 1,
     "price": 25.99,
     "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/deathstranding.jpg",
+    "poster": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-stranding.jpg",
     "developer": "Kojima Productions",
     "info": "As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America in this genre-defying experience from legendary game creator Hideo Kojima.",
     "platforms": { 
@@ -45,62 +48,62 @@
   },
    {
     "id": 3,
-    "name": "death stranding",
-    "category": ["sci-fi", "adventure"],
-    "year": 2019,
+    "name": "uncharted: legacy of thieves",
+    "category": ["action", "adventure", "shooter"],
+    "year": 2022,
     "amount": 1,
     "price": 25.99,
-    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/deathstranding.jpg",
-    "developer": "Kojima Productions",
-    "info": "As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America in this genre-defying experience from legendary game creator Hideo Kojima.",
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/uncharted.jpg",
+    "poster": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-unchartedlegacy.jpg",
+    "developer": "naughty dog",
+    "info": "Play as Nathan Drake and Chloe Frazer in their own standalone adventures as they are forced to confront their pasts and forge their own legacies.",
     "platforms": { 
-      "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png", 
-      "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png"
+      "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png"
     }
   },
    {
     "id": 4,
-    "name": "death stranding",
-    "category": ["sci-fi", "adventure"],
-    "year": 2019,
+    "name": "ratchet & clank: rift apart",
+    "category": ["for kids", "adventure"],
+    "year": 2022,
     "amount": 1,
-    "price": 25.99,
-    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/deathstranding.jpg",
-    "developer": "Kojima Productions",
-    "info": "As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America in this genre-defying experience from legendary game creator Hideo Kojima.",
+    "price": 20.99,
+    "image": "hhttps://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/ratchet.jpg",
+    "poster": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-ratchet2.jpg",
+    "developer": "insomniac games",
+    "info": "Blast your way through an interdimensional adventure with Ratchet and Clank. Go dimension-hopping as they take on an evil emperor from another reality.",
     "platforms": { 
       "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png", 
-      "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png"
     }
   },
    {
     "id": 5,
-    "name": "death stranding",
-    "category": ["sci-fi", "adventure"],
-    "year": 2019,
+    "name": "spider man: miles morales",
+    "category": ["fighting", "adventure", "action"],
+    "year": 2021,
     "amount": 1,
-    "price": 25.99,
-    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/deathstranding.jpg",
-    "developer": "Kojima Productions",
-    "info": "As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America in this genre-defying experience from legendary game creator Hideo Kojima.",
+    "price": 35.99,
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/morales.jpg",
+    "poster": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-morales.jpg",
+    "developer": "insomniac games",
+    "info": "Experience the rise of Miles Morales as the new hero masters incredible, explosive new powers to become his own Spider-Man.",
     "platforms": { 
       "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png", 
-      "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png"
     }
   },
    {
     "id": 6,
-    "name": "death stranding",
-    "category": ["sci-fi", "adventure"],
+    "name": "horizon forbidden west",
+    "category": ["sci-fi", "adventure", "fighting"],
     "year": 2019,
     "amount": 1,
     "price": 25.99,
-    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/deathstranding.jpg",
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/horizon.jpg",
+    "poster": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-forbiddenwest.jpg",
     "developer": "Kojima Productions",
-    "info": "As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America in this genre-defying experience from legendary game creator Hideo Kojima.",
+    "info": "Explore distant lands, fight bigger and more awe-inspiring machines, and encounter astonishing new tribes as you return to the far-future, post-apocalyptic world of Horizon.",
     "platforms": { 
       "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png", 
-      "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png"
     }
   }
  
