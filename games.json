@@ -48,7 +48,7 @@
   },
    {
     "id": 3,
-    "name": "uncharted: legacy of thieves",
+    "name": "uncharted legacy of thieves",
     "category": ["action", "adventure", "shooter"],
     "year": 2022,
     "amount": 1,
@@ -63,7 +63,7 @@
   },
    {
     "id": 4,
-    "name": "ratchet & clank: rift apart",
+    "name": "ratchet & clank rift apart",
     "category": ["for kids", "adventure"],
     "year": 2022,
     "amount": 1,
@@ -78,7 +78,7 @@
   },
    {
     "id": 5,
-    "name": "spider man: miles morales",
+    "name": "spider man miles morales",
     "category": ["fighting", "adventure", "action"],
     "year": 2021,
     "amount": 1,
