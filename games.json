@@ -192,7 +192,7 @@
 { 
     "id": 13, 
     "name": "assassin's creend: odyssey", 
-    "category": "action", 
+    "category": ["fighting", "adventure", "action"],
     "year": 2018, 
     "amount": 1, 
     "price": 25.99, 
@@ -208,7 +208,7 @@
   { 
     "id": 14, 
     "name": "last of us: part 2", 
-    "category": "sci fi", 
+    "category": ["adventure", "action"], 
     "year": 2020, 
     "amount": 1, 
     "price": 35.99, 
@@ -222,7 +222,7 @@
     { 
     "id": 15, 
     "name": "control", 
-    "category": "shooter", 
+    "category": ["shooter", "sci-fi", "adventure"], 
     "year": 2019, 
     "amount": 1, 
     "price": 25.99, 
@@ -238,7 +238,7 @@
    { 
     "id": 16, 
     "name": "god of war", 
-    "category": "action", 
+    "category": ["action", "adventure", "fighting"], 
     "year": 2018, 
     "amount": 1, 
     "price": 25.99, 
@@ -253,7 +253,7 @@
   { 
     "id": 17, 
     "name": "god of war: ragnarok", 
-    "category": "adventure", 
+    "category": ["action", "adventure", "fighting"], 
     "year": 2022, 
     "amount": 1, 
     "price": 45.99, 
@@ -268,7 +268,7 @@
   { 
     "id": 18, 
     "name": "sekiro: shadow die twice", 
-    "category": "fighting", 
+    "category": ["action", "fighting"],  
     "year": 2019, 
     "amount": 1, 
     "price": 27.99, 
@@ -284,7 +284,7 @@
    { 
     "id": 19, 
     "name": "horizon: zero dawn", 
-    "category": "shooter", 
+    "category": ["adventure", "fighting", "sci-fi"], 
     "year": 2017, 
     "amount": 1, 
     "price": 27.99, 
