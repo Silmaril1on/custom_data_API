@@ -42,8 +42,66 @@
       "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png", 
       "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png"
     }
+  },
+   {
+    "id": 3,
+    "name": "death stranding",
+    "category": ["sci-fi", "adventure"],
+    "year": 2019,
+    "amount": 1,
+    "price": 25.99,
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/deathstranding.jpg",
+    "developer": "Kojima Productions",
+    "info": "As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America in this genre-defying experience from legendary game creator Hideo Kojima.",
+    "platforms": { 
+      "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png", 
+      "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png"
+    }
+  },
+   {
+    "id": 4,
+    "name": "death stranding",
+    "category": ["sci-fi", "adventure"],
+    "year": 2019,
+    "amount": 1,
+    "price": 25.99,
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/deathstranding.jpg",
+    "developer": "Kojima Productions",
+    "info": "As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America in this genre-defying experience from legendary game creator Hideo Kojima.",
+    "platforms": { 
+      "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png", 
+      "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png"
+    }
+  },
+   {
+    "id": 5,
+    "name": "death stranding",
+    "category": ["sci-fi", "adventure"],
+    "year": 2019,
+    "amount": 1,
+    "price": 25.99,
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/deathstranding.jpg",
+    "developer": "Kojima Productions",
+    "info": "As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America in this genre-defying experience from legendary game creator Hideo Kojima.",
+    "platforms": { 
+      "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png", 
+      "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png"
+    }
+  },
+   {
+    "id": 6,
+    "name": "death stranding",
+    "category": ["sci-fi", "adventure"],
+    "year": 2019,
+    "amount": 1,
+    "price": 25.99,
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/deathstranding.jpg",
+    "developer": "Kojima Productions",
+    "info": "As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America in this genre-defying experience from legendary game creator Hideo Kojima.",
+    "platforms": { 
+      "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png", 
+      "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png"
+    }
   }
-  
-  
-  
+ 
 ]
