@@ -31,7 +31,7 @@
    {
     "id": 2,
     "name": "death stranding",
-    "category": ["sci-fi", "adventure",],
+    "category": ["sci-fi", "adventure"],
     "year": 2019,
     "amount": 1,
     "price": 25.99,
@@ -43,6 +43,7 @@
       "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png"
     }
   }
+  
   
   
 ]
