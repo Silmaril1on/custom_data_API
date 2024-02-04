@@ -287,7 +287,7 @@
     "category": ["adventure", "fighting", "sci-fi", "playstation"], 
     "year": 2017, 
     "amount": 1, 
-    "price": 27.99, 
+    "price": "$ 35.99", 
     "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-horizon.jpg", 
     "developer": "Guerrilla Games", 
     "info": "Horizon Zero Dawn is a 2017 action role-playing game developed by Guerrilla Games and published by Sony Interactive Entertainment. The game was released for PlayStation 4 in 2017 and Windows in 2020. Horizon Zero Dawn is the first game of the Horizon video game series.", 
