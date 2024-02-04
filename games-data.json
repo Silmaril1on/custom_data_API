@@ -352,7 +352,7 @@
     "year": 2023, 
     "amount": 1, 
     "price": "free to play", 
-    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-lol.jpg", 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-warzone.jpg", 
     "developer": "activision", 
     "info": "Call of Duty: Warzone was a free-to-play battle royale video game developed by Raven Software and Infinity Ward and published by Activision.", 
     "platforms": { 
@@ -369,7 +369,7 @@
     "year": 2009, 
     "amount": 1, 
     "price": "free to play", 
-    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-warzone.jpg", 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-lol.jpg", 
     "developer": "riot games", 
     "info": "League of Legends, commonly referred to as League, is a 2009 multiplayer online battle arena video game developed and published by Riot Games. Inspired by Defense of the Ancients, a custom map for Warcraft III, Riot's founders sought to develop a stand-alone game in the same genre.", 
     "platforms": { 
