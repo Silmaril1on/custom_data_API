@@ -308,7 +308,7 @@
     "info": "Dota 2 is a 2013 multiplayer online battle arena video game by Valve. The game is a sequel to Defense of the Ancients, a community-created mod for Blizzard Entertainment's Warcraft III: Reign of Chaos.", 
     "platforms": { 
       "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
-      "steam" "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/steam.png"
+      "steam": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/steam.png"
     } 
   },
    { 
@@ -323,7 +323,7 @@
     "info": "Fortnite is an online video game and game platform developed by Epic Games and released in 2017. It is available in six distinct game mode versions that otherwise share the same general gameplay.", 
     "platforms": { 
       "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
-      "steam" "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/steam.png",
+      "steam": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/steam.png",
       "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
       "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
     } 
@@ -340,7 +340,7 @@
     "info": "EA Sports FC 24 is an association football-themed simulation video game developed by EA Vancouver and EA Romania and published by EA Sports. It is the inaugural installment in the EA Sports FC series, succeeding the FIFA video game series after Electronic Arts's partnership with FIFA concluded with FIFA 23. ", 
     "platforms": { 
       "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
-      "steam" "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/steam.png",
+      "steam": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/steam.png",
       "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
       "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
     } 
@@ -357,7 +357,7 @@
     "info": "Call of Duty: Warzone was a free-to-play battle royale video game developed by Raven Software and Infinity Ward and published by Activision.", 
     "platforms": { 
       "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
-      "steam" "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/steam.png",
+      "steam": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/steam.png",
       "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
       "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
     } 
