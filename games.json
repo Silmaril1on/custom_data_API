@@ -295,5 +295,20 @@
       "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png", 
       "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png" 
     } 
+  },
+   { 
+    "id": 20, 
+    "name": "dota 2", 
+    "category": ["online", "free to play"], 
+    "year": 2013, 
+    "amount": 1, 
+    "price": "free to play", 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-dota2.jpg", 
+    "developer": "valve corporation", 
+    "info": "Dota 2 is a 2013 multiplayer online battle arena video game by Valve. The game is a sequel to Defense of the Ancients, a community-created mod for Blizzard Entertainment's Warcraft III: Reign of Chaos.", 
+    "platforms": { 
+      "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+      "steam" "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/steam.png"
+    } 
   }
 ]
