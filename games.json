@@ -420,7 +420,8 @@
      "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
      "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
      "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
-    } 
+    }
+   },
    { 
     "id": 28, 
     "name": "plague tale: innocence", 
