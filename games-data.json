@@ -625,7 +625,7 @@
     "year": 2015, 
     "amount": 1, 
     "price": 15.99, 
-    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-bloodborne.jpg", 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-bloodbborne.jpg", 
     "developer": "FromSoftware", 
     "info": "Bloodborne is a 2015 action role-playing game developed by FromSoftware and published by Sony Computer Entertainment for the PlayStation 4.", 
     "platforms": { 
@@ -863,7 +863,7 @@
     "year": 2024, 
     "amount": 1, 
     "price": 35.99, 
-    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-mirage.jpg", 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-skullandbones.jpg", 
     "developer": "ubisoft montreal", 
     "info": "Skull and Bones is a 2024 action-adventure game developed by Ubisoft Singapore and published by Ubisoft. The game revolves around piracy and naval warfare with a fantastical setting in East Africa and Southeast Asia during the late 17th century, the peak of the historical Golden Age of Piracy.", 
     "platforms": { 
