@@ -93,7 +93,7 @@
     "amount": 1,
     "price": 25.99,
     "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-forbiddenwest.jpg",
-    "developer": "Kojima Productions",
+    "developer": "Guerrilla Games",
     "info": "Explore distant lands, fight bigger and more awe-inspiring machines, and encounter astonishing new tribes as you return to the far-future, post-apocalyptic world of Horizon.",
     "platforms": { 
       "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png"
@@ -191,7 +191,7 @@
 },
 { 
     "id": 13, 
-    "name": "assassin's creend: odyssey", 
+    "name": "assassin's creed: odyssey", 
     "category": ["fighting", "adventure", "action", "playstation", "xbox"],
     "year": 2018, 
     "amount": 1, 
@@ -338,7 +338,7 @@
     "amount": 1, 
     "price": 65.99, 
     "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-fifa24.jpg", 
-    "developer": "EA romania", 
+    "developer": "EA games", 
     "info": "EA Sports FC 24 is an association football-themed simulation video game developed by EA Vancouver and EA Romania and published by EA Sports. It is the inaugural installment in the EA Sports FC series, succeeding the FIFA video game series after Electronic Arts's partnership with FIFA concluded with FIFA 23. ", 
     "platforms": { 
       "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
@@ -500,6 +500,70 @@
     "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-evilwest.jpg", 
     "developer": "flying wild hog", 
     "info": "Evil West is a 2022 third-person shooter game developed by Flying Wild Hog and published by Focus Entertainment. The game was released for PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S on 22 November 2022. It received mixed reviews from critics.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+  { 
+    "id": 34, 
+    "name": "need for speed: rivals", 
+    "category": ["sport", "racing", "simulator"], 
+    "year": 2013, 
+    "amount": 1, 
+    "price": 15.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-rivals.jpg", 
+    "developer": "EA games", 
+    "info": "Need for Speed Rivals is a 2013 racing video game developed in a collaboration between Ghost Games and Criterion Games, and published by Electronic Arts.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+  { 
+    "id": 35, 
+    "name": "ufc 4", 
+    "category": ["sport", "fighting", "simulator"], 
+    "year": 2020, 
+    "amount": 1, 
+    "price": 35.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-ufc4.jpg", 
+    "developer": "EA games", 
+    "info": "EA Sports UFC 4 is a mixed martial arts fighting video game developed by EA Vancouver and published by EA Sports. Serving as the sequel to EA Sports UFC 3, it was released on August 14, 2020 for PlayStation 4 and Xbox One.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+  { 
+    "id": 36, 
+    "name": "crash bandicoot 4", 
+    "category": ["for kids", "adventure" ], 
+    "year": 2020, 
+    "amount": 1, 
+    "price": 25.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-crash4.jpg", 
+    "developer": "activision", 
+    "info": "Crash Bandicoot 4: It's About Time is a 2020 platform game developed by Toys for Bob and published by Activision. It was originally released for the PlayStation 4 and Xbox One, with releases for the Nintendo Switch, PlayStation 5, Xbox Series X/S, and Windows following in 2021.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+    { 
+    "id": 37, 
+    "name": "Tom Clancy's The Division 2", 
+    "category": ["shooter", "adventure", "online" ], 
+    "year": 2019, 
+    "amount": 1, 
+    "price": 25.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-division2.jpg", 
+    "developer": "ubisoft montreal", 
+    "info": "Tom Clancy's The Division 2 is an online-only action role-playing video game developed by Massive Entertainment and published by Ubisoft.", 
     "platforms": { 
      "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
      "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
