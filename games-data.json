@@ -569,5 +569,307 @@
      "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
      "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
     } 
+  }, 
+     { 
+    "id": 38, 
+    "name": "Assassin's creen: rogue", 
+    "category": ["action", "adventure" ], 
+    "year": 2014, 
+    "amount": 1, 
+    "price": 15.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-rogue.jpg", 
+    "developer": "ubisoft montreal", 
+    "info": "Assassin's Creed Rogue is a 2014 action-adventure video game developed by Ubisoft Sofia and published by Ubisoft. It is the seventh major installment in the Assassin's Creed series", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+   { 
+    "id": 39, 
+    "name": "Assassin's creen: black flag", 
+    "category": ["action", "adventure" ], 
+    "year": 2013, 
+    "amount": 1, 
+    "price": 15.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-blackflag.jpg", 
+    "developer": "ubisoft montreal", 
+    "info": "Assassin's Creed IV: Black Flag is a 2013 action-adventure video game developed by Ubisoft Montreal and published by Ubisoft. It is the sixth major installment in the Assassin's Creed series. Its historical timeframe precedes that of Assassin's Creed III, but its modern-day sequences succeed III's own.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+     { 
+    "id": 40, 
+    "name": "need for speed: unbound", 
+    "category": ["sport", "racing", "simulator" ], 
+    "year": 2022, 
+    "amount": 1, 
+    "price": 35.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-ntfunbound.jpg", 
+    "developer": "EA games", 
+    "info": "Need for Speed Unbound is a 2022 racing video game developed by Criterion Games and published by Electronic Arts. The game is the twenty-fifth instalment in the Need for Speed series and the successor to 2019's Heat.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+  { 
+    "id": 41, 
+    "name": "bloodborne", 
+    "category": ["action", "fighting", "adventure" ], 
+    "year": 2015, 
+    "amount": 1, 
+    "price": 15.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-bloodborne.jpg", 
+    "developer": "FromSoftware", 
+    "info": "Bloodborne is a 2015 action role-playing game developed by FromSoftware and published by Sony Computer Entertainment for the PlayStation 4.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png"
+    } 
+  },
+       { 
+    "id": 42, 
+    "name": "dragon age: inquisition", 
+    "category": ["sport", "racing", "simulator" ], 
+    "year": 2014, 
+    "amount": 1, 
+    "price": 15.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-dragonage.jpg", 
+    "developer": "bioware", 
+    "info": "Dragon Age: Inquisition is a 2014 action role-playing video game developed by BioWare and published by Electronic Arts. The third major game in the Dragon Age franchise, Inquisition is the sequel to Dragon Age II.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+   { 
+    "id": 43, 
+    "name": "grid legends", 
+    "category": ["sport", "racing", "simulator" ], 
+    "year": 2022, 
+    "amount": 1, 
+    "price": 15.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-gridlegends.jpg", 
+    "developer": "EA games", 
+    "info": "Grid Legends is a 2022 racing video game developed by Codemasters and published by Electronic Arts. It is the fifth instalment in the Grid franchise. The game was released for Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S on February 25, 2022.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+  { 
+    "id": 44, 
+    "name": "battlefield 5", 
+    "category": ["action", "shooter", "adventure" ], 
+    "year": 2018, 
+    "amount": 1, 
+    "price": 25.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-battlefield5.jpg", 
+    "developer": "EA games", 
+    "info": "Battlefield V is a 2018 first-person shooter game developed by DICE and published by Electronic Arts. The game is the successor to 2016's Battlefield 1 and the eleventh main installment in the Battlefield series.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+  { 
+    "id": 45, 
+    "name": "far cry 6", 
+    "category": ["action", "shooter", "adventure" ], 
+    "year": 2021, 
+    "amount": 1, 
+    "price": 45.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-farcry6.jpg", 
+    "developer": "ubisoft montreal", 
+    "info": "Far Cry 6 is a 2021 first-person shooter game developed by Ubisoft Toronto and published by Ubisoft. It is the sixth main installment in the Far Cry series and the successor to 2018's Far Cry 5. ", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+  { 
+    "id": 46, 
+    "name": "star wars jedi: survivor", 
+    "category": ["action", "shooter", "adventure" ], 
+    "year": 2023, 
+    "amount": 1, 
+    "price": 45.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-lastjedi2.jpg", 
+    "developer": "EA games", 
+    "info": "Star Wars Jedi: Survivor is a 2023 action-adventure game developed by Respawn Entertainment and published by Electronic Arts.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+  { 
+    "id": 47, 
+    "name": "manhunt 2", 
+    "category": ["action", "adventure" ], 
+    "year": 2007, 
+    "amount": 1, 
+    "price": 15.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-manhunt2.jpg", 
+    "developer": "rockstar games", 
+    "info": "Manhunt 2 is a 2007 stealth game by Rockstar Games. It was developed by Rockstar London for Microsoft Windows and PlayStation 2, Rockstar Leeds for the PlayStation Portable, and Rockstar Toronto for the Wii.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+  { 
+    "id": 48, 
+    "name": "need for speed: heat", 
+    "category": ["racing", "simulator", "sport" ], 
+    "year": 2007, 
+    "amount": 1, 
+    "price": 15.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-nfsheat.jpg", 
+    "developer": "EA games", 
+    "info": "Need for Speed Heat is a 2019 racing video game developed by Ghost Games and published by Electronic Arts for PlayStation 4, Windows, and Xbox One. It is the twenty-fourth installment in the Need for Speed series and commemorates the series' 25th anniversary.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+  { 
+    "id": 49, 
+    "name": "grand theft auto: san andreas", 
+    "category": ["adventure", "action" ], 
+    "year": 2007, 
+    "amount": 1, 
+    "price": 15.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-sanandreas.jpg", 
+    "developer": "rockstar games", 
+    "info": "Grand Theft Auto: San Andreas is a 2004 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the seventh title in the Grand Theft Auto series, following 2002's Grand Theft Auto: Vice City.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+  { 
+    "id": 50, 
+    "name": "for honor", 
+    "category": ["adventure", "action",  "fighting" ], 
+    "year": 2016, 
+    "amount": 1, 
+    "price": 15.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-forhonor.jpg", 
+    "developer": "ubisoft montreal", 
+    "info": "For Honor is an action game developed and published by Ubisoft. The game allows players to play the roles of historical forms of soldiers and warriors such as knights, samurai, and vikings, controlled using a third-person perspective. ", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+   { 
+    "id": 51, 
+    "name": "max payne 3", 
+    "category": ["adventure", "action", "shooter" ], 
+    "year": 2012, 
+    "amount": 1, 
+    "price": 15.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-maxpayne3.jpg", 
+    "developer": "rockstar games", 
+    "info": "Max Payne 3 is a 2012 third-person shooter game developed and published by Rockstar Games. The game was released for PlayStation 3 and Xbox 360 on May 15, 2012; a Windows port was released on May 29, 2012, followed by an OS X port on June 20, 2013.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+   { 
+    "id": 52, 
+    "name": "watchdogs", 
+    "category": ["adventure", "action", "shooter" ], 
+    "year": 2014, 
+    "amount": 1, 
+    "price": 25.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-watchdogs.jpg", 
+    "developer": "ubisoft montreal", 
+    "info": "Watch Dogs is an action-adventure video game franchise published by Ubisoft, and developed primarily by its Montreal and Toronto studios using the Disrupt game engine. The series' eponymous first title was released in 2014, and it has featured three games in total, the most recent being 2020's Watch Dogs: Legion.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+   { 
+    "id": 53, 
+    "name": "last jedi: fallen order", 
+    "category": ["adventure", "action", "fighting" ], 
+    "year": 2014, 
+    "amount": 1, 
+    "price": 25.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-lastjedi.jpg", 
+    "developer": "EA games", 
+    "info": "Star Wars Jedi: Fallen Order is a 2019 action-adventure game developed by Respawn Entertainment and published by Electronic Arts. The story is set in the Star Wars universe, five years after Star Wars: Episode III – Revenge of the Sith.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+     { 
+    "id": 54, 
+    "name": "L.A noire", 
+    "category": ["adventure", "action"], 
+    "year": 2011, 
+    "amount": 1, 
+    "price": 15.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-lanoir.jpg", 
+    "developer": "rockstar games", 
+    "info": "L.A. Noire is a 2011 action-adventure video game developed by Team Bondi and published by Rockstar Games. Set in 1947 Los Angeles, the game follows detective Cole Phelps's rise among the ranks of the Los Angeles Police Department as he solves a range of cases across various bureaus.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+   { 
+    "id": 55, 
+    "name": "assassin's creed: mirage", 
+    "category": ["adventure", "action", "fighting" ], 
+    "year": 2023, 
+    "amount": 1, 
+    "price": 35.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-mirage.jpg", 
+    "developer": "ubisoft montreal", 
+    "info": "Assassin's Creed Mirage is a 2023 action-adventure game developed by Ubisoft Bordeaux and published by Ubisoft. The game is the thirteenth major installment in the Assassin's Creed series and the successor to 2020's Assassin's Creed Valhalla. ", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
+  },
+   { 
+    "id": 56, 
+    "name": "skull and bones", 
+    "category": ["adventure", "action", "fighting" ], 
+    "year": 2024, 
+    "amount": 1, 
+    "price": 35.99, 
+    "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/poster-mirage.jpg", 
+    "developer": "ubisoft montreal", 
+    "info": "Skull and Bones is a 2024 action-adventure game developed by Ubisoft Singapore and published by Ubisoft. The game revolves around piracy and naval warfare with a fantastical setting in East Africa and Southeast Asia during the late 17th century, the peak of the historical Golden Age of Piracy.", 
+    "platforms": { 
+     "ps": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/playstation-logotype.png",
+     "pc": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/windows.png",
+     "xbox": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/xbox-logo.png"
+    } 
   }
 ]
