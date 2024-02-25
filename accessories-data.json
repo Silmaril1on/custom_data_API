@@ -13,46 +13,46 @@
   "price": 499.99,
   "amount": 1,
   "developer": "sony",
-  "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/consoles_ps5digital.jpg"
+  "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/consoles_ps5disc.jpg"
 },
   {
   "id": 2,
-  "name": "playstation 5 | Digital Version",
+  "name": "xbox series x",
   "price": 399.99,
   "amount": 1,
-  "developer": "sony",
-  "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/consoles_ps5digital.jpg"
+  "developer": "microsoft",
+  "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/consoles_xboxseriesx.jpg"
 },
   {
   "id": 3,
-  "name": "playstation 5 | Digital Version",
-  "price": 399.99,
+  "name": "playstation 4 pro",
+  "price": 199.99,
   "amount": 1,
   "developer": "sony",
-  "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/consoles_ps5digital.jpg"
+  "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/consoles_pr4pro.jpg"
 },
   {
   "id": 4,
-  "name": "playstation 5 | Digital Version",
-  "price": 399.99,
+  "name": "playstation 4 Slim",
+  "price": 219.99,
   "amount": 1,
   "developer": "sony",
-  "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/consoles_ps5digital.jpg"
+  "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/consoles_ps4slim.jpg"
 },
   {
   "id": 5,
-  "name": "playstation 5 | Digital Version",
-  "price": 399.99,
+  "name": "dualsense edge",
+  "price": 135.99,
   "amount": 1,
   "developer": "sony",
-  "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/consoles_ps5digital.jpg"
+  "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/consoles_dualsenseedge.jpg"
 },
   {
   "id": 6,
-  "name": "playstation 5 | Digital Version",
-  "price": 399.99,
+  "name": "xbox s",
+  "price": 259.99,
   "amount": 1,
-  "developer": "sony",
-  "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/consoles_ps5digital.jpg"
+  "developer": "microsoft",
+  "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/consoles_xboxs.jpg"
 }
 ]
