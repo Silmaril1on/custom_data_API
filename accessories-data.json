@@ -21,7 +21,7 @@
   "price": 399.99,
   "amount": 1,
   "developer": "microsoft",
-  "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/consoles_xboxseriesx.jpg"
+  "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/consoleS_xboxseriesx.jpg"
 },
   {
   "id": 3,
@@ -29,7 +29,7 @@
   "price": 199.99,
   "amount": 1,
   "developer": "sony",
-  "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/consoles_pr4pro.jpg"
+  "image": "https://raw.githubusercontent.com/Silmaril1on/custom_data_API/main/images/gamebase/consoles_ps4pro.jpg"
 },
   {
   "id": 4,
